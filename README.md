@@ -1,4 +1,4 @@
-# Using Blockchain to Implement Distributed Storage
+# Distributed Storage Implementation With The Help Of BlockChain
 
 ## Dependencies
 
